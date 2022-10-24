@@ -1,6 +1,7 @@
+package day1024;
 import java.util.Scanner;
 
-public class day221024 {
+public class problem1 {
 
 	public static void main(String[] args) {
 		/*
